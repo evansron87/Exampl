@@ -1,0 +1,84 @@
+#gradient {
+	background-color:black;
+	background: -webkit-linear-gradient(left top, black,#262626, #B1FFEB);
+	background: -o-linear-gradient(bottom right, black, #262626, #B1FFEB);
+	background: -moz-linear-gradient(bottom right, black,#262626, #B1FFEB); 
+	background: linear-gradient(to bottom right, black,, #B1FFEB);
+	width: 100vw;
+	height: 100vh;
+}
+#mySubmit {
+	background-color: #FFF8BD;
+}
+header {
+	height: 100px;
+	text-align: center;
+	background-color: #ffffff;
+	opacity: 0.7;
+	line-height: 0;
+}
+body {
+	padding: 0;
+	margin: 0;
+	min-width: 1000px;
+	min-height: 1000px;
+	width: 
+}
+footer {
+	height: 50px;
+	text-align: center;
+	vertical-align: center;
+	background-color: #ffffff;
+	opacity: 0.7;
+	line-height: 0;
+}
+.contact {
+	text-align: center;
+}
+.flipbird {
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+}
+.menuwordselect {
+	font-size: 10pt;
+}
+.indexpage, .sizechart {
+	text-align: center;
+}
+.cost {
+	font-size: 15pt;
+}
+.sizes {
+	font-size: 10pt;
+}
+table {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+th {
+	padding: 10px;
+	text-transform: uppercase;
+	color: #ffffff;
+}
+td {
+	color: #ffffff;
+}
+a {
+	font-weight: bold;
+}
+a:link {
+	text-decoration: none;
+	color: #ffffff;
+}
+a:hover {
+	color: #660033;
+	text-decoration: underline;
+}
+a:visited {
+	color: #000099;
+}
